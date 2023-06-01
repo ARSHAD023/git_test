@@ -1,6 +1,13 @@
 # git_test
+
 git and GitHub test!
 
-again testing for unstaging 
+again testing for unstaging
 
 modifing the file
+
+osfnksdjnkcsdnkcnksndknskndkndsklncklsnknsdkncklsdnc
+lorem
+
+cnsl
+git
